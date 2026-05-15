@@ -1,0 +1,9 @@
+# Ignore project data files to prevent uploading large datasets
+*.pdf
+data/
+
+# Ignore Python and Spark temporary or compiled files
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+spark-warehouse/
