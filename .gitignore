@@ -1,6 +1,6 @@
 # Ignore project data files to prevent uploading large datasets
 *.pdf
-data/
+data_raw/
 
 # Ignore Python and Spark temporary or compiled files
 __pycache__/
