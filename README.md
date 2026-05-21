@@ -66,7 +66,8 @@ docker start -ai infoh515_project
 
 ## 4. Install Dependencies
 
-Inside the container, from `/workspace`, install the exact required dependencies:
+The requirements are in the fisrt cell at the beginning of the task 1 notebook, but you can also install it
+inside the container, from `/workspace`, install the exact required dependencies:
 
 ```bash
 python -m pip install --no-cache-dir \
